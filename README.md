@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/anjan_panjiyar" target="blank"><img src="https://img.shields.io/twitter/follow/anjan_panjiyar?logo=twitter&style=for-the-badge" alt="anjan_panjiyar" /></a> </p>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **php**
 
 - 💬 Ask me about **html,css and javascript**
 
